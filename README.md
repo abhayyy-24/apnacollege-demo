@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first git repo
 <br>
-author:Abhay
+author:Abhay Krishna Prasad
